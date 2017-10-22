@@ -1,5 +1,5 @@
 ---
 layout: post
-title: 'Soluchan' : The Meme Disaster!
+title: 'Soluchan', The Meme Disaster!
 ---
 
