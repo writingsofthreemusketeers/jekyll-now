@@ -6,7 +6,6 @@ permalink: /about/
 
 We are three kids trying to put our awesome thoughts on whatever topic into this blog for the world to see!
 
-### More Information
 
 
 
